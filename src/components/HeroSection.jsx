@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { ChevronLeft, ChevronRight } from 'lucide-react'
-import img0 from "./ghimage.jpeg"
+import img0 from "./ghimage.png"
 import img1 from "./ghImages.JPG"
 import img2 from "./ghImg.JPG"
 
